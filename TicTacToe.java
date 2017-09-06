@@ -89,10 +89,10 @@ public class TicTacToe extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "O Wins!");
         }
         else if(one == "O" && five == "O" && nine == "O"){
-            JOptionPane.showMessageDialog(null, "X Wins!");
+            JOptionPane.showMessageDialog(null, "O Wins!");
         }
         else if(three == "O" && five == "O" && seven == "O"){
-            JOptionPane.showMessageDialog(null, "X Wins!");
+            JOptionPane.showMessageDialog(null, "O Wins!");
         }
     }
     
