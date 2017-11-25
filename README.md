@@ -1,2 +1,2 @@
 # tictactoe
-Tic-Tac-Toe Game in Netbeans
+Tic-Tac-Toe Game in Netbeans IDE
